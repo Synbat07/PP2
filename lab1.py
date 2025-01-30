@@ -121,9 +121,9 @@ c = a + " " + b
 print(c)
 
 #F-Strings (String Format)
+age = 36
 txt = f"My name is John, I am {age}"
 print(txt)   #My name is John, I am 36
-
 
 #Escape Characters
 txt = "We are the so-called \"Vikings\" from the north."
